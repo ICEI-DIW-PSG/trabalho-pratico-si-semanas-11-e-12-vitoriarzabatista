@@ -6,24 +6,28 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vitoria Amancio Roza Batista
+- Matricula: 904612
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: O projeto é destinado a um espaço de eventos localizado na Itália, cuja entidade principal será a realização de casamentos, eventos corporativos e outras celebrações. Trata-se de um site com proposta romântica e clássica, que apresentará informações sobre o local, sua história e um cardápio gastronômico típico da Itália.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![GET Request](public/img/GET.JPG)
+![GET Result](public/img/GET.1.jpg)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![POST Request](public/img/POST.jpg)
+![POST Result](public/img/POST.1.jpg.jpg)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![PUT Request](public/img/PUT.jpg)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![DELETE Request](public/img/DELETE.jpg)
+![DELETE Result](public/img/DELETE.1.jpg.jpg)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![GET NETWORK](public/img/GET-NETWORK.jpg)
+![POST NETWORK](public/img/POST%20-%20NETWORK.jpg)
 
 ## **Orientações Gerais**
 
