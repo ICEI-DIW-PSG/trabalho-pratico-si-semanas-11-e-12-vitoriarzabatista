@@ -32,7 +32,8 @@ const App = (function () {
         "descricao": "Jantar ao ar livre em nossos jardins.",
         "descricaodetalhada": "A Noite de Gala na Villa Cetinale é o auge da elegância. O evento é montado nos jardins iluminados por centenas de velas e lustres suspensos. Convidados desfrutam de um jantar sofisticado ao som de uma orquestra local, enquanto o pôr do sol se dissolve nas colinas da Toscana. É uma celebração inesquecível de arte, cultura e sofisticação — o verdadeiro espírito italiano em sua forma mais pura.",
         "imagem": "img/evento4.jpg"
-      }
+      },
+      
     ]
   };
 
