@@ -17,12 +17,12 @@
       "imagem": "img/evento2.jpg"
     },
     {
-      "id": "3",
       "tipo": "Eventos",
-      "nome": "[Atualização]: Degustações de Vinhos e Massas",
+      "nome": "Degustações de Vinhos e Massas",
       "descricao": "Oficinas de cozinha e degustação de vinhos.",
       "descricaodetalhada": "O Retiro Gourmet é uma imersão sensorial no universo da gastronomia toscana. Durante alguns dias, os participantes aprendem com chefs locais a preparar massas frescas, molhos clássicos e sobremesas típicas. As aulas acontecem nas cozinhas antigas da Villa, seguidas de degustações de vinhos e azeites da propriedade. É uma experiência que une aprendizado, prazer e convivência, ideal para quem ama a culinária e o estilo de vida italiano.",
-      "imagem": "img/evento3.jpg"
+      "imagem": "img/evento3.jpg",
+      "id": "3"
     },
     {
       "id": "4",
@@ -39,6 +39,14 @@
       "descricao": "Passeio guiado pelos vinhedos da Villa Cetinale, com degustação de rótulos premiados.",
       "descricaodetalhada": "O Tour pelas Vinícolas Exclusivas é uma experiência imersiva nos bastidores da produção dos vinhos toscanos. Os visitantes percorrem os vinhedos centenários acompanhados por enólogos especializados, conhecendo o processo de cultivo, colheita e fermentação das uvas. A visita inclui uma parada na adega histórica da Villa, onde é possível degustar vinhos premiados e harmonizados com queijos e azeites locais. Ideal para amantes da enogastronomia, o tour combina aprendizado, cultura e sabores autênticos da Itália.",
       "imagem": "img/vinicula.jpg"
+    },
+    {
+      "tipo": "Gastronomia",
+      "nome": "Entradas Toscans",
+      "descricao": "Tábua de antipasti com queijos e pães artesanais.",
+      "descricaodetalhada": "Uma seleção impecável de sabores tradicionais abre o banquete da Villa Cetinale. As entradas são compostas por uma tábua generosa de queijos artesanais produzidos na região de Siena, presuntos curados, pães rústicos recém-assados e azeitonas colhidas nas plantações locais. Servidas com azeite extravirgem de produção própria, essas delícias trazem a essência da “cucina povera” — a culinária simples e autêntica da Toscana, onde o sabor nasce da pureza dos ingredientes.",
+      "imagem": "img/gastronomia1.jpg",
+      "id": "68e3"
     }
   ]
 }

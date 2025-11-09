@@ -114,3 +114,20 @@ section.mb-5 {
 section.mb-5:first-of-type {
   border-top: none;
 }
+
+#galleryArea .card {
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+#galleryArea .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+}
+
+#galleryArea .card img {
+  height: 180px;
+  object-fit: cover;
+}
